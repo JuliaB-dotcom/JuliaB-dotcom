@@ -27,8 +27,6 @@
 [linkedin]: https://www.linkedin.com/in/julia-berg-a73b371b8
 
 <!--
-
-
 - 🔭 I’m currently working on Space Invaders
 - 🌱 I’m currently learning Cyber security
 - 📫 How to reach me: julia.solbacken@gmail.com
