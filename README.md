@@ -1,6 +1,6 @@
 <h1>Hi, I'm Julia! <br/><a href="https://github.com/JuliaB-dotcom">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Junior Java developer</a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>:rocket: Software Development Projects:</h2>
 
 - <b>Fullfillment of an fullstack task</b>
   - [Book searching engine (React, NodeJS, REST)](https://github.com/JuliaB-dotcom/book-shelf)
