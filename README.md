@@ -25,10 +25,10 @@
 [<img align="left" alt="JuliaBerg | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/julia-berg-a73b371b8
+ <br>
 
 - 🔭 I’m currently working on Space Invaders
 - 🌱 I’m currently learning Cyber security
-- 📫 How to reach me: julia.solbacken@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: Potatoes are the reason why I breath :heart_eyes:!
 
