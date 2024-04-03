@@ -28,7 +28,7 @@
  <br>
 
 - 🔭 I’m currently working on Space Invaders
-- 🌱 I’m currently learning Cyber security
+- 🌱 I’m currently learning Python and AI
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: Potatoes are the reason why I breath :heart_eyes:!
 
