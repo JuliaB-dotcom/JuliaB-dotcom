@@ -5,10 +5,10 @@
 - <b>Fullfillment of an fullstack task</b>
   - [Book searching engine (React, NodeJS, REST)](https://github.com/JuliaB-dotcom/book-shelf)
 - <b> My first own game project, just for fun</b>
-  - [Space invaders (React, NodeJS)](https://github.com/JuliaB-dotcom/first-game) 
+  - [(In progress)Space invaders (React, NodeJS)](https://github.com/JuliaB-dotcom/first-game) 
 - <b>Learning Android studio</b>
-  - [Car rental application (Java, Android studio)](https://github.com/JuliaB-dotcom/our-transport)
-  - [In progress E-commerce website for my mum (React,NodeJS)](https://github.com/JuliaB-dotcom/webbsite)
+  - [(In progess) Car rental application (Java, Android studio)](https://github.com/JuliaB-dotcom/our-transport)
+  - [(In progress) E-commerce website for my mum (React,NodeJS)](https://github.com/JuliaB-dotcom/webbsite)
   
 - <b>School projects</b>
   - [Ticket booking application with test students, Java students and .Net students (React, NodeJS, Express, SQLite )](https://github.com/rholst1/trainify)
