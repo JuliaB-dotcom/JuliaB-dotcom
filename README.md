@@ -27,8 +27,8 @@
 [linkedin]: https://www.linkedin.com/in/julia-berg-a73b371b8
  <br>
 
-- 🔭 I’m currently working on Space Invaders
-- 🌱 I’m currently learning Python and AI
+- 🔭 I’m currently working on a web scraping project
+- 🌱 I’m currently learning Python 
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: Potatoes are the reason why I breath :heart_eyes:!
+- ⚡ Fun fact: Music and potatoes adds the little extra in life :heart_eyes:!
 
