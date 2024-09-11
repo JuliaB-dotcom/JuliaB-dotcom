@@ -4,6 +4,8 @@
 
 - <b>Fullfillment of an fullstack task</b>
   - [Book searching engine (React, NodeJS, REST)](https://github.com/JuliaB-dotcom/book-shelf)
+- <b> My first Python project</b>
+  - [(In progress)FoodUpdater (Python, Pip3, Beautiful Soup)](https://github.com/JuliaB-dotcom/first-web-scraper)
 - <b> My first own game project, just for fun</b>
   - [(In progress)Space invaders (React, NodeJS)](https://github.com/JuliaB-dotcom/first-game) 
 - <b>Learning Android studio</b>
